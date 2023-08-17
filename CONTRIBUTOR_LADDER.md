@@ -1,4 +1,4 @@
-# OpenSSF Scorecard Contributor ladder
+# OpenSSF Scorecard Contributor Ladder
 
 This document outlines the various contributor roles in the Scorecard project, along with their respective prerequisites and responsibilities.
 It also defines the process by which users can request to change roles.
@@ -12,7 +12,7 @@ It also defines the process by which users can request to change roles.
 
 ## Roles
 
-### Community participants
+### Community Participants
 
 Community participants engage with Scorecard,
 contributing their time and energy in discussions or just generally helping out.
@@ -60,7 +60,7 @@ Members are expected to remain active contributors to the community.
 
 - Tests run against their PRs automatically
 
-#### Promotion process
+#### Promotion Process
 
 - Sponsored by 1 maintainer or 2 triagers. **Note the following requirements for sponsors**:
   - Sponsors must have close interactions with the prospective Member – e.g. 
@@ -106,7 +106,7 @@ and software engineering principles.
 - Same as for Community Members
 - Triager status may be a precondition to accepting large code contributions
 
-#### Promotion process
+#### Promotion Process
 
 - Sponsored by a maintainer
   - With no objections from other maintainers
@@ -158,7 +158,7 @@ approval is focused on holistic acceptance of a contribution including:
 - May self-nominate or be nominated by a maintainer
   - In case of self-nomination, sponsor must comment approval on the PR
 
-## Inactive members
+## Inactive Members
 A core principle in maintaining a healthy community is encouraging active participation.
 It is inevitable that a contributor's focus will change over time
 and there is no expectation they'll actively contribute forever.
